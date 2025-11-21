@@ -14,6 +14,7 @@ public class Main {
         while (j < 10){
                 System.out.println("j = " + j);
                 j++;
-            }
+        }
+            System.out.println("Desde master queremos forzar un conflicto");
     }
 }
