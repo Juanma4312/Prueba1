@@ -12,6 +12,8 @@ public class Main {
         while (j < 10){
                 System.out.println("j = " + j);
                 j++;
-            }
+        }
+            System.out.println("estamos forgando un conflicto");
+
     }
 }
